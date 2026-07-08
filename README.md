@@ -1,7 +1,7 @@
 IDE = integrated (vs code)
 ## **Introduction to Python Programming**
 1. What is Python?
-	Python is a high-level, 
+ Python is a high-level, 
 	interpreted programming language
 	known for its simplicity and readability. 
 	It allows developers to write clear programs for both small and large-scale projects. 
