@@ -17,5 +17,4 @@ Python is used for:
 - **Cross-platform**: Python works on different operating systems (Windows, macOS, Linux, etc.).
 - **Versatile**: Whether it's web development, data analysis, or automation, Python has libraries for almost everything.
 
-saccccccccccccccccccccccccccccccccccc
-ytrjjeue
+
