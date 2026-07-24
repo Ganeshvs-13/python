@@ -18,4 +18,3 @@ Python is used for:
 - **Versatile**: Whether it's web development, data analysis, or automation, Python has libraries for almost everything.
 
 
-aSZSQSQS
